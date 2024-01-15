@@ -1,0 +1,60 @@
+﻿  Individual.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.cpp(42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.cpp(63): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.cpp(72): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.cpp(73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  OpimizerHamster.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Optimizer.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizer.cpp(17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizer.cpp(21): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  OptimizerBasic.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(33): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(49): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(55): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(65): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(71): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(86): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(103): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\optimizerbasic.cpp(115): warning C4101: 'maxIntOnPosition': unreferenced local variable
+  OptimizerHotCold.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Selector.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.cpp(23): warning C4244: 'argument': conversion from 'double' to 'const unsigned __int64', possible loss of data
+  SelectorCrowding.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  SelectorRanking.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  SelectorRoulette.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  SelectorTournament.cpp
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\selector.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\code\tep\konkurs2\agchallengepubl\agchallenge\individual.h(22): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  TimerIteration.cpp
+  Generating code
+  1 of 871 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  AGChallenge.vcxproj -> D:\code\TEP\konkurs2\AGChallengePubl\x64\Release\AGChallenge.exe
